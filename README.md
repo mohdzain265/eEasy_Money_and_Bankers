@@ -1,8 +1,8 @@
 # eEasy_Money_and_Bankers
 
-Hi I am Rehan Thomas ,happy to share my first internship result on web development in association with The Spark Foundation
+Hi I am Mohammed Zain ,happy to share my first internship result on web development in association with The Spark Foundation
 
-#GRIPMAY21  The Sparks Foundation
+#GRIPJULY21  The Sparks Foundation
 
 Question::
 
