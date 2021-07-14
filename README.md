@@ -28,6 +28,6 @@ Question::
 
 Work::
 
-Website:https://eeasy-money.herokuapp.com/
+Website:https://eeasy-moneyz.herokuapp.com/
 
-Linkedin: https://www.linkedin.com/posts/rehan-thomas-88b302174_task1-gripmay21-github-activity-6800064752677715968-li3R
+Linkedin: https://www.linkedin.com/posts/zainmohd_task1-gripjuly21-sparksfoundation-activity-6821045583348944896-N_WP
